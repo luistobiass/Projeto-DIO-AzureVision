@@ -7,4 +7,4 @@ O processo de reconhecimento óptico de caracteres utilizado pela Azure, traz co
 <br>
 O retorno em formato JSON, transforma a aplicação dos algoritmos da Azure em informações acionáveis, que descrevem o texto capturado, região da imagem que o texto se encontra e a confiabilidade da informação.
 <br>
-Lembrando que, todo o serviço é entregue em nuvem, onde não é necessário o uso do processamento computacional do computador do usuário.
+Lembrando que todo o serviço é entregue em nuvem, onde não é necessário o uso do processamento computacional do usuário.
